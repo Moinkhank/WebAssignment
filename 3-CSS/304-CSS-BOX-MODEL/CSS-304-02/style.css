@@ -1,1 +1,48 @@
 /* start your css here */
+*{
+    background-color: rgba(32, 11, 11, 0.801);
+}
+element.style {
+    background-color: white;
+}
+#box{
+    display: grid;
+    height: 600px;
+    width: 450px;
+    border: 4px solid white;
+    margin:0px;
+    margin-left: 200px;
+    margin-top: 100px;
+    background-color: #0f070762;
+    margin-bottom: 100px;
+}
+#text1{
+   color: white;
+   background-color: #0f070762;
+}
+.block{
+   
+   justify-content: center;
+   padding-left: 50px;
+   background-color: #0f070762;
+}
+.f1{
+    height: 40px;
+    width: 240px;
+    background-color: white;
+    border:4px solid white
+     
+}
+.check{
+    display: flex;
+    color: white;
+    margin: 0px;
+}
+.btn{
+    color: white;
+    height: 50px;
+    width: 110px;
+    border:  solid white 4px;
+    margin-left: 150px;
+    
+}
