@@ -1,1 +1,17 @@
 /* start your css here */
+#border{
+   border: 2px solid black;
+   align-items: center;
+   justify-content: center;
+   width: 300px;
+   height: 100px;
+   justify-content: space-between;
+   margin-left: 550px;
+}
+body {
+    display: inline;
+    margin : 0px;
+}
+#space{
+   
+}
