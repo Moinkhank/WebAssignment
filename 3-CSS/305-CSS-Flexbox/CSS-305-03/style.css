@@ -1,1 +1,52 @@
 /* start your styling here  */
+.container{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    height: 400px;
+    width: 1000px;
+    
+     margin-left: 10%;
+     margin-top: 15%;
+   
+   
+      
+  
+}
+.box{
+    border: solid black 3px;
+      border-radius: 10px;
+    justify-content: center;
+}
+.box1{
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background-color: rgba(187, 95, 8, 0.861);
+    
+}
+.box2{
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background-color: rgba(25, 91, 122, 0.861);
+    
+}
+.box3{
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background-color: rgba(14, 56, 19, 0.861);
+    
+}
+.btn{
+    margin-top: 50px;
+    font-size: 14px;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.fa-solid.fa-car-side{
+    margin-top: 35px;
+   color: brown;
+   font-size: 35px;
+   font-weight: bolder;
+}

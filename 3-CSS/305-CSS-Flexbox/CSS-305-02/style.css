@@ -1,1 +1,142 @@
 /* start your styling here  */
+.container {
+    display: grid;
+    width: 30%;
+    height: 350px;
+    padding: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 60px 60px 60px 60px 60px;
+    grid-gap: 10px;
+    border: solid rgb(10, 10, 9) 5px;
+    border-radius: 10%;
+    background-color: rgb(143, 61, 61);
+    margin-top: 15%;
+    margin-left: 15%;
+   
+  }
+  #align1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+
+  .box1{
+    background-color: rgb(200, 200, 17);
+    border-radius: 10%; 
+    text-align: center;
+  }
+  .box2{
+    background-color: rgb(27, 27, 101);
+     grid-column: 2/5;
+     border-radius: 10%;
+     text-align: end;
+     text-align: right;
+    
+     color: white;
+  }.box3{
+    background-color: rgb(27, 27, 101);
+    border-radius: 10%;
+   
+   text-align: center;
+    color: white;
+  }
+  .box4{
+    background-color: rgb(27, 27, 101);
+    border-radius: 10%;
+    
+   
+    color: white;
+  }
+  .box5{
+    background-color:  rgb(27, 27, 101);
+    border-radius: 10%;
+    
+   
+    color: white;
+  }
+  .box6{
+    background-color: rgb(200, 200, 17);
+    border-radius: 10%;
+    
+   
+  }
+  .box7{
+    background-color:  rgb(27, 27, 101);
+    border-radius: 10%;
+    
+   
+    color: white;
+  }
+  .box8{
+    background-color: rgb(27, 27, 101);
+    border-radius: 10%;
+    
+   
+    color: white;
+  }
+  .box9{
+    background-color:  rgb(27, 27, 101);
+    border-radius: 10%;
+    
+   
+    color: white;
+  }
+  .box10{
+    background-color: rgb(200, 200, 17);
+    border-radius: 10%;
+    
+   
+  }
+  .box11{
+    background-color:  rgb(27, 27, 101);
+    border-radius: 10%;
+    
+   
+    color: white;
+  }
+  .box12{
+    background-color:  rgb(27, 27, 101);
+    border-radius: 10%;
+    
+   
+    color: white;
+  }
+  .box13{
+    background-color:  rgb(27, 27, 101);
+    border-radius: 10%;
+    
+   
+    color: white;
+  }
+  .box14{
+    background-color: rgb(200, 200, 17);
+    border-radius: 10%;
+    
+   
+  }
+  .box15{
+    background-color:  rgb(27, 27, 101);
+    border-radius: 10%;
+    
+   
+    color: white;
+  }
+  .box16{
+    background-color:  rgb(27, 27, 101);
+    border-radius: 10%;
+    
+   
+    color: white;
+  }
+  .box17{
+    background-color:  rgb(27, 27, 101);
+    border-radius: 10%;
+    
+   
+    color: white;
+  }
+  .box18{
+    background-color: rgb(200, 200, 17);
+    border-radius: 10%;
+   
+  }

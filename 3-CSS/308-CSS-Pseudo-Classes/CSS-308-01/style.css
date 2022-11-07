@@ -1,1 +1,63 @@
 /* start your styling here  */
+.btn{
+    text-align: center;
+   
+    justify-content: space-evenly;
+     margin-top: 20%;
+}
+.green{
+     border-color: green;
+     border-radius: 3px;
+     padding: 15px 32px;
+     font-size: 26px;
+}
+.blue{
+    border-color: blue;
+    border-radius: 3px;
+    padding: 15px 32px;
+    font-size: 26px;
+}
+.yellow{
+    border-color: yellow;
+    border-radius: 3px;
+    padding: 15px 32px;
+    font-size: 26px;
+}
+.red{
+    border-color: red;
+    border-radius: 3px;
+    padding: 15px 32px;
+    font-size: 26px;
+}
+.grey{
+    border-color: rgb(59, 53, 53);
+    border-radius: 3px;
+    padding: 15px 32px;
+    font-size: 26px;
+}
+.green:hover {
+    background-color:#65cc65;
+    transition: 0.7s;
+    color: white;
+    
+}
+.blue:hover {
+    background-color:#30427e;
+    transition: 0.7s;
+    color: white;
+}
+.yellow:hover {
+    background-color:#b8ee18;
+    transition: 0.7s;
+    color: white;
+}
+.red:hover {
+    background-color:#ca260d;
+    transition: 0.7s;
+    color: white;
+}
+.grey:hover {
+    background-color:rgb(87, 86, 86);
+    transition: 0.7s;
+    color: white;
+}

@@ -1,1 +1,15 @@
-/* start your css here */
+.gfg{
+    position: fixed;
+   
+}
+.second-txt{
+    position: relative;
+    bottom: 100px;
+    left: 60px;
+    color: rgb(233, 229, 229);
+}
+#img{
+    margin: 0px;
+    margin-top: 30px;
+    margin-left: 50px;
+}

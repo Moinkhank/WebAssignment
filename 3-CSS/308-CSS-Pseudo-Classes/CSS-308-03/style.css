@@ -1,1 +1,46 @@
 /* start your styling here  */
+.next-line{
+    display: flex;
+    justify-content:space-between;
+    background-color: rgb(215, 209, 121);
+}
+.full-page{
+    display: flex;
+}
+#pic{
+    margin-top: 70px;
+    margin-right: 50px;
+}
+.logo{
+    margin-left: 25px;
+    justify-content: space-between;
+}
+.btn{
+    color: rgba(0, 0, 0, 0.288);
+    background-color: rgba(81, 59, 59, 0.772);
+    height: 100px;
+    justify-content: space-evenly;
+    display: flex;
+
+}
+.btn1{
+    margin-top: 25px;
+    margin-left: 0px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+.btn2{
+    margin-top: 25px;
+margin-left: 0px;
+margin-bottom: 25px;
+margin-right: 55px;
+border-radius: 10px;
+}
+.bottom{
+    margin-left: 20%;
+    color: white;
+}
+.color{
+    background-color: rgb(17, 59, 17);
+
+}

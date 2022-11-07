@@ -1,1 +1,48 @@
 /* start your styling here  */
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    
+    background-color: rgb(28, 112, 180);
+}
+.flip{
+    margin-top: 10px;
+    display: flex;
+    text-align: center;
+   justify-content: center;
+   color: aliceblue;
+}
+.seller{
+    margin-top: 2px;
+    display: flex;
+    text-align: center;
+   justify-content: center;
+   color: aliceblue;
+color: aliceblue;
+}.form{
+   margin-top: 10px;
+    text-align: center;
+   justify-content: center;
+   padding-left: 20px;
+ 
+}.more{
+    margin-top: 26px;
+   
+    text-align: center;
+   justify-content: center;
+   color: aliceblue;
+}
+.cart{
+    margin-top: 26px;
+    color: aliceblue;
+}
+.img{
+    display: flex;
+    justify-content: space-around;
+}
+#hi{
+  color: black;
+}
+.text1{
+    padding-left: 8px;
+}

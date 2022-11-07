@@ -1,4 +1,22 @@
 /* start your css here */
+
 .navbar{
-    color: black;
+     height: 100px;
+     width: 900px;
+     background-color: rgba(17, 36, 72, 0.845);
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     justify-content: space-around;
+     text-decoration-line: none;
+}
+.voot{
+    color: white;
+}
+.fa.fa-search-plus{
+    color: white;
+   
+}
+.fa.fa-user-circle-o{
+    color: white;
 }
