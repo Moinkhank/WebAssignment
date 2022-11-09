@@ -1,0 +1,44 @@
+body{
+    color: rgb(209, 209, 225);
+    background-color: rgb(55, 36, 73);
+}
+button{
+    border:2px solid rgb(6, 6, 7);
+    height: 6rem;
+    width: 5rem;
+    border-radius: 10px;
+    justify-items: space-evenly;
+}
+
+#drum0{
+    justify-content: center;
+    text-align: center;
+    margin-top: 10%;
+    color: rgb(203, 195, 195);
+    font-style:bold;
+    font-size: 45px;
+}
+.set{
+    margin-top: 5px;
+   
+    height:15rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+   
+}
+.drum{
+    font-size: 40px;
+    font-weight: 7px;
+    margin:  5px;
+    color: brown;
+    border: solid rgb(142, 125, 181) 6px;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 55px;
+    position: relative;
+    
+}

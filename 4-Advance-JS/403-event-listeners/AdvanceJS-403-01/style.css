@@ -1,0 +1,34 @@
+.container{
+    height: 500px;
+    margin-top: 85px;
+    margin-left: 155px;
+    width: 500px;
+}
+.keyboard{
+    border: solid black 2px;
+    padding: 12px 33px;
+    font-size: 20px;
+    font-weight: 10px;
+}
+#key-text{
+   
+   
+    padding: 12px;
+    width: 250px;
+    font-size: 26px;
+    font-weight: 18px;
+    color: green;  
+
+}
+#ans{
+    color: green;
+   /*  border: solid black 2px; */
+  
+    padding: 12px;
+    width: 250px;
+    font-size: 26px;
+    font-weight: 18px;
+}
+#inp{
+    color: blueviolet;
+}
