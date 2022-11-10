@@ -1,1 +1,31 @@
 /* start your css here */
+body{
+    background-image: url("https://th.bing.com/th/id/R.90f133ca0f462de82960200f8592673a?rik=UgW1yoRfIXXDuQ&riu=http%3a%2f%2fprod.static9.net.au%2f_%2fmedia%2fNetwork%2fImages%2f2017%2f06%2f21%2f14%2f09%2f170621coach_coffee_beans.jpg&ehk=6vG8k0FMNrXDcDpC1iMV3hXkKvguWqxDWxj7A9TFHug%3d&risl=&pid=ImgRaw&r=0");
+}
+.container{
+    border: solid 2px;
+    text-align: center;
+    color: rgb(93, 22, 22);
+    width: 500px;
+    background-color: rgb(212, 150, 108);
+    margin-left: 25%;
+    height: 45rem;
+}
+table{
+   
+    margin-left: 7%;
+    font-size: 20px;
+    font-weight: 8px;
+    color: rgb(93, 22, 22);
+      justify-content: space-around;
+      width: 400px;
+      height: 200px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+}
+.part1{
+    font-size: 19px;
+    
+}
+
+
