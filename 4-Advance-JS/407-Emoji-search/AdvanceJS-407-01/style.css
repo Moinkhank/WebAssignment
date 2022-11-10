@@ -1,0 +1,18 @@
+body{
+    color: rgb(236, 233, 233);
+    background-color: black;
+    font-size: 20px;
+    margin-left: 10%;
+}
+#search-field{
+    padding: 10px 30px;
+    font-size: 18px;
+    color: blueviolet;
+    border: solid 4px;
+}
+#search0{
+    padding: 10px 30px;
+    font-size: 18px;
+color: blueviolet;
+border: solid 4px;
+}
